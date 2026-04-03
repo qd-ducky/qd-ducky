@@ -1,67 +1,56 @@
 # 👋 Hi, I'm Ducky
 
-### 🧩 Minecraft Server Developer
+## 🧩 Minecraft Server Developer
 
-I create **Skripts** and **Plugins** focused on custom items and systems, clean design, and real server use.
+I create **Skripts** and **Plugins** focused on custom items, clean design, and real server performance.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Services
 
-* ⚙️ Custom Minecraft plugins (Spigot / Paper / Or Any Other)
+### 💼 Available for hire
+
+I can create:
+
+* ⚙️ Custom Minecraft plugins (Spigot / Paper / others)
 * 📜 Advanced Skript systems
-* 🛡️ Server optimization & gameplay features
-* 🔧 Fixing bugs and improving existing setups
+* 🔧 Bug fixing & performance optimization
+* 🎮 Custom gameplay mechanics
+
+> Flexible and tailored to your server’s needs.
+
+---
+
+## 📬 Contact / Hire Me
+
+💬 Discord: https://discord.com/users/YOUR_ID
+Or add me: `qd_ducky`
 
 ---
 
 ## 🧠 Technologies
 
-* Java (for plugins)
-* Skript (with addons)
+* Java
+* Skript (+ addons)
 * YAML / Config systems
 * Git & GitHub
----
-
-## 🚀 Services
-
-# 💼 Available for hire
-
-I can create:
-
-⚙️ Custom Minecraft plugins
-📜 Advanced Skript systems
-🔧 Bug fixing & performance optimization
-🎮 Custom gameplay mechanics
-🌍 Only limit is your imagination
-
-# ⏳ Get in touch with me on discord --> @ qd_ducky
 
 ---
 
 ## 📦 Projects
 
-* 🔹 **CustomItems** – Custom pvp items
-* 🔹 **UtilitySkriptPack** – Collection of general useful scripts
-* 🔹 **AntiCheatTweaks** – Configs & improvements
+* 🔹 **CustomItems** – Advanced custom PvP item system with abilities
+* 🔹 **UtilitySkriptPack** – Collection of useful server scripts
+* 🔹 **AntiCheatTweaks** – Config improvements and exploit fixes
 
 ---
 
 ## 💡 Philosophy
 
-I focus on:
-
 * Clean and readable code
 * Performance over unnecessary features
-* Real-world usability for servers
-* Reliable Plugins / Skripts
-
----
-
-## 📬 Contact
-
-* Discord: `qd_ducky` *(or your Discord link)*
-* GitHub: https://github.com/qd-ducky
+* Built for real server usage
+* Reliable and maintainable systems
 
 ---
 
