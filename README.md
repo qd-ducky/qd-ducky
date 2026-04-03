@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Ducky
 
-<!--
-**qd-ducky/qd-ducky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 Minecraft Server Developer
 
-Here are some ideas to get you started:
+I create **Skripts** and **Plugins** focused on custom items and systems, clean design, and real server use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* ⚙️ Custom Minecraft plugins (Spigot / Paper / Or Any Other)
+* 📜 Advanced Skript systems
+* 🛡️ Server optimization & gameplay features
+* 🔧 Fixing bugs and improving existing setups
+
+---
+
+## 🧠 Technologies
+
+* Java (for plugins)
+* Skript (with addons)
+* YAML / Config systems
+* Git & GitHub
+---
+
+## 🚀 Services
+
+# 💼 Available for hire
+
+I can create:
+
+⚙️ Custom Minecraft plugins
+📜 Advanced Skript systems
+🔧 Bug fixing & performance optimization
+🎮 Custom gameplay mechanics
+🌍 Only limit is your imagination
+
+# ⏳ Get in touch with me on discord --> @ qd_ducky
+
+---
+
+## 📦 Projects
+
+* 🔹 **CustomItems** – Custom pvp items
+* 🔹 **UtilitySkriptPack** – Collection of general useful scripts
+* 🔹 **AntiCheatTweaks** – Configs & improvements
+
+---
+
+## 💡 Philosophy
+
+I focus on:
+
+* Clean and readable code
+* Performance over unnecessary features
+* Real-world usability for servers
+* Reliable Plugins / Skripts
+
+---
+
+## 📬 Contact
+
+* Discord: `qd_ducky` *(or your Discord link)*
+* GitHub: https://github.com/qd-ducky
+
+---
+
+## ⭐ Support
+
+If you like my work, consider starring the repo — it helps a lot!
+
+---
+
+## 🧱 Extras
+
+* Always improving
+* Open to feedback
+* Building better server experiences
