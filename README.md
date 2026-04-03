@@ -23,7 +23,7 @@ I can create:
 
 ## 📬 Contact / Hire Me
 
-💬 Discord: https://discord.com/users/YOUR_ID
+💬 Discord: https://discord.com/users/876238056275984435
 Or add me: `qd_ducky`
 
 ---
